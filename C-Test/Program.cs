@@ -6,7 +6,7 @@ namespace C_
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("test2");
             ConsoleKeyInfo name = Console.ReadKey();
         }
     }
