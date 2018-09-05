@@ -6,7 +6,7 @@ namespace C_
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("test2");
+            Console.WriteLine("get familiar with git on windows");
             ConsoleKeyInfo name = Console.ReadKey();
         }
     }
